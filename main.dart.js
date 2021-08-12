@@ -45931,14 +45931,14 @@ b.sn6(!1)}}
 K.uT.prototype={
 U(a,b){return this.e.$2(b,this.f)}}
 F.xP.prototype={
-U(a,b){return new S.pp(C.BM,"Flutter Demo",X.a3k(null,C.mJ),null)}}
+U(a,b){return new S.pp(C.BM,"Flutter CARLOS JR",X.a3k(null,C.mJ),null)}}
 F.pD.prototype={
 b1(){return new F.tm(C.o)}}
 F.tm.prototype={
 M2(){this.aU(new F.V2(this))},
 U(a,b){var s,r=null
 this.a.toString
-s=L.a_b("Flutter Demo Home Page",r)
+s=L.a_b("Paniga flutter carlos jr",r)
 return new M.qw(new E.nY(s,new E.El(r,r,1/0,56),r),T.Ie(T.aak(H.a([C.H0,L.a_b(""+this.d,K.bM(b).P.d)],t.p),C.mD),r,r),E.a1W(C.xZ,!1,this.gM1(),"Increment"),r)}}
 F.V2.prototype={
 $0(){++this.a.d},
